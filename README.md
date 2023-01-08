@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I am a web developer majorly inclined towards frontend. I have proficiency in working in JavaScript ecosystem especially using ReactJS.
+I am a web developer majorly inclined towards frontend. I have proficiency in working with JavaScript ecosystem especially using ReactJS.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [abhishekaneja2@gmail.com](mailto:abhishekaneja2@gmail.com)
