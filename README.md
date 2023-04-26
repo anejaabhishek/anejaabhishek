@@ -8,7 +8,7 @@ I am a web developer majorly inclined towards frontend. I have proficiency in wo
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [abhishekaneja2@gmail.com](mailto:abhishekaneja2@gmail.com)
-* 🧠  I'm learning Redux
+* 🧠  I'm learning Next.js and MongoDB
 
 ### Skills
 
